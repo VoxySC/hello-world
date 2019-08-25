@@ -1,2 +1,5 @@
 # hello-world
-Just a random test
+
+Hello guys,
+
+I'm actualy doing some tests to figure out how to use github.
